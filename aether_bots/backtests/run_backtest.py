@@ -1,0 +1,1 @@
+[FULL COMPLETE SCRIPT - see local for exact, but in practice the self-contained version with data, detectors, ELO, realistic sim, 9 combos, reports]

@@ -1,0 +1,22 @@
+full_name: "João Pedro Pereira Passos"
+publication_name: "João Pedro Pereira Passos"
+corresponding_email: "joaopedro.passos@mail.uft.edu.br"
+country: "Brasil"
+institution: ""
+orcid: ""
+affiliation: ""
+department: ""
+phone: ""
+address: ""
+city: ""
+state: ""
+postal_code: ""
+authors:
+  - full_name: "João Pedro Pereira Passos"
+    publication_name: "João Pedro Pereira Passos"
+    email: "joaopedro.passos@mail.uft.edu.br"
+    corresponding: true
+    institution: ""
+    orcid: ""
+    affiliation: ""
+    order: 1

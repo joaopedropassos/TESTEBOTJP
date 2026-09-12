@@ -1,0 +1,31 @@
+example_journal:
+  login:
+    username: "#username"
+    password: "#password"
+    submit: "button[type='submit']"
+  navigation:
+    new_submission: "a#new-submission"
+    my_drafts: "a#my-drafts"
+  form:
+    title: "input#manuscript-title"
+    abstract: "textarea#abstract"
+    keywords: "input#keywords"
+    corresponding_email: "input#corresponding-email"
+    corresponding_name: "input#corresponding-name"
+    country: "select#country"
+    cover_letter: "textarea#cover-letter"
+  upload:
+    manuscript_blinded: "input#upload-blinded"
+    manuscript_identified: "input#upload-identified"
+    title_page: "input#upload-title-page"
+    cover_letter_file: "input#upload-cover"
+    checklist: "input#upload-checklist"
+  actions:
+    save_draft: "button#save-draft"
+    final_submit: "button#final-submit"
+    confirm_final: "button#confirm-final-submit"
+  indicators:
+    draft_saved: ".draft-saved-banner"
+    fee_notice: ".fee-notice, .apc-warning"
+    contract_notice: ".copyright-notice, .license-agreement"
+    success: ".submission-success"

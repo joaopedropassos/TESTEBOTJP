@@ -1,0 +1,24 @@
+journals:
+  example_journal:
+    code: "EXAMPLE"
+    name: "Example Open Access Journal"
+    portal_url: "https://example-journal.local/submit"
+    adapter: "generic"
+    selectors_key: "example_journal"
+    requires_cover_letter: true
+    requires_title_page: true
+    requires_blinded_manuscript: true
+    requires_checklist: true
+    accepts_docx: true
+    accepts_pdf: true
+    max_file_mb: 20
+    fee_warning_keywords:
+      - "article processing charge"
+      - "APC"
+      - "publication fee"
+      - "payment required"
+    contract_warning_keywords:
+      - "copyright transfer"
+      - "exclusive license"
+      - "terms of agreement"
+    notes: "Example journal for local HTML simulation and dry-run."
